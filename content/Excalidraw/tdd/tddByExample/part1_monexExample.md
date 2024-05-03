@@ -5,6 +5,7 @@ tags:
   - tdd
 status: active
 date: 2024-05-03
+published: true
 ---
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
@@ -210,8 +211,8 @@ TdWxqE4N: [[TDD]]
 		},
 		{
 			"type": "arrow",
-			"version": 308,
-			"versionNonce": 1516596432,
+			"version": 309,
+			"versionNonce": 1434046274,
 			"isDeleted": false,
 			"id": "nkuMAwkOmB5gfnLbJLq2J",
 			"fillStyle": "solid",
@@ -238,7 +239,7 @@ TdWxqE4N: [[TDD]]
 					"id": "iReFVdGy"
 				}
 			],
-			"updated": 1714735662129,
+			"updated": 1714743848127,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -373,8 +374,8 @@ TdWxqE4N: [[TDD]]
 		},
 		{
 			"type": "arrow",
-			"version": 448,
-			"versionNonce": 1122793680,
+			"version": 452,
+			"versionNonce": 555509442,
 			"isDeleted": false,
 			"id": "cfl8D9qSxzWzoD8FcGq7s",
 			"fillStyle": "solid",
@@ -383,12 +384,12 @@ TdWxqE4N: [[TDD]]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 35.96519630281551,
-			"y": -24.29164249481333,
+			"x": 35.965196302815514,
+			"y": -24.29163876444713,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 175.2836884030766,
-			"height": 119.7488025345299,
+			"height": 119.74880506489512,
 			"seed": 147796528,
 			"groupIds": [],
 			"frameId": null,
@@ -401,7 +402,7 @@ TdWxqE4N: [[TDD]]
 					"id": "AotqGF9e"
 				}
 			],
-			"updated": 1714735662129,
+			"updated": 1714743848128,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -424,7 +425,7 @@ TdWxqE4N: [[TDD]]
 				],
 				[
 					-175.2836884030766,
-					-119.7488025345299
+					-119.74880506489512
 				]
 			]
 		},
@@ -480,10 +481,10 @@ TdWxqE4N: [[TDD]]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 349.67126163873337,
-		"scrollY": 654.4411764705882,
+		"scrollX": 343.35247605998575,
+		"scrollY": 696.3671726755217,
 		"zoom": {
-			"value": 1.7000000000000002
+			"value": 1.55
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
