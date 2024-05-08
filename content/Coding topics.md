@@ -1,6 +1,6 @@
 ```dataview
-LIST
-FROM "Excalidraw" and #tdd 
+TABLE title, status, date
+FROM "content/topics"
 WHERE status = "active"
-SORT date DESC
+SORT date desc
 ```
