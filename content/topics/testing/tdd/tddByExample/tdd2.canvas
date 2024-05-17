@@ -1,0 +1,66 @@
+{
+  "nodes": [
+    {
+      "id": "cf2ad31d54d2b221",
+      "type": "text",
+      "text": "Part II - xUnit Example",
+      "x": -227,
+      "y": -303,
+      "width": 227,
+      "height": 50,
+      "color": "3"
+    },
+    {
+      "id": "8d272ff8a147b6be",
+      "type": "text",
+      "text": "general pattern",
+      "borderStyle": "invisible",
+      "x": -243,
+      "y": -420,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "8c79e0ec04473795",
+      "type": "text",
+      "text": "take code that works\n-> generalize it to work by many\n-> by replacing constants with variables",
+      "x": -320,
+      "y": -780,
+      "width": 359,
+      "height": 197
+    },
+    {
+      "id": "924bfa206a9807dd",
+      "type": "text",
+      "text": "Put operations near data",
+      "x": 39,
+      "y": -560,
+      "width": 239,
+      "height": 55
+    }
+  ],
+  "edges": [
+    {
+      "id": "d48705e2150f7978",
+      "fromNode": "cf2ad31d54d2b221",
+      "fromSide": "top",
+      "toNode": "8d272ff8a147b6be",
+      "toSide": "bottom"
+    },
+    {
+      "id": "5e8c9655ba1a09cd",
+      "fromNode": "8d272ff8a147b6be",
+      "fromSide": "top",
+      "toNode": "8c79e0ec04473795",
+      "toSide": "bottom"
+    },
+    {
+      "id": "389cada67f5ae405",
+      "fromNode": "8d272ff8a147b6be",
+      "fromSide": "top",
+      "toNode": "924bfa206a9807dd",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {}
+}

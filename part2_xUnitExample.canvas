@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "010052e0b323e62a",
+      "type": "text",
+      "text": "Part II - xUnit Example",
+      "x": -360,
+      "y": -600,
+      "width": 250,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "f7398488a7006f43",
+      "type": "text",
+      "text": "take code that works\n-> generalize it to work by many\n-> by replacing constants with variables",
+      "x": -360,
+      "y": -382,
+      "width": 359,
+      "height": 178,
+      "color": "4"
+    },
+    {
+      "id": "de28f42d31b79c74",
+      "type": "text",
+      "text": "Put operations near data",
+      "x": 19,
+      "y": -484,
+      "width": 239,
+      "height": 50,
+      "color": "4"
+    }
+  ],
+  "edges": [
+    {
+      "id": "46353f02d959eccf",
+      "fromNode": "010052e0b323e62a",
+      "fromSide": "bottom",
+      "toNode": "f7398488a7006f43",
+      "toSide": "top",
+      "label": "general pattern"
+    },
+    {
+      "id": "8aea01461d54f2df",
+      "fromNode": "010052e0b323e62a",
+      "fromSide": "right",
+      "toNode": "de28f42d31b79c74",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {}
+}
