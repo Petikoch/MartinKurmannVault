@@ -12,12 +12,12 @@ tags:
  
  ## Lernziele
  - Du erklärst deinem Teamkollegen, wie Pair Programming funktioniert
- - Du vertiefst dein Wissen zu Pair Programming und kannst immer wiederkehrende Herausforderungen schneller auflösen.
- - Du diskutierst mindestens 5 Vor- und 6 Herausforderungen von Pair Programming mit anderen, auch in Bezug auf Pull Requests, Wissenstransfer und Teambildung
+ - Du vertiefst dein Wissen über Pair Programming und kannst wiederkehrende Herausforderungen schneller lösen
+ - Du diskutierst mit anderen mindestens 5 Vorteile und 6 Herausforderungen von Pair Programming, einschließlich Pull Requests, Wissenstransfer und Teambildung
  
  ## Zielpublikum
  - Erfahrene Entwickler, welche sich im Pairing verbessern wollen oder negative Erfahrungen gemacht haben
- - Entwickler, welche noch nie im Pair oder Mob gearbeitet haben und diese Art XP selbst ausprobieren möchten.
+ - Entwickler, welche noch nie im Pair oder Mob gearbeitet haben und diese Art von Extreme Programming kennenlernen möchten
 
 # C1: Connections
 ## Priming
